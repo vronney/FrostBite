@@ -536,6 +536,17 @@ a:active {
   color: hsl(0, 100%, 50%);
 }
 
+@media only screen and (max-width: 575px) {
+  .topReasons {
+    margin-left: 60px;
+    margin-right: auto;
+  }
+
+  .bottomReasons {
+    margin-top: 20px;
+  }
+}
+
 /* .brandsImage {
   background-image: url(../images/brands.jpg);
   background-repeat: no-repeat;
