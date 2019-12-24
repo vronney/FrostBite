@@ -621,7 +621,7 @@ a:active {
   padding-right: 0;
 }
 
-.service-container {
+.service-container, .testimonials {
   background-color: #0c5198;
 }
 
