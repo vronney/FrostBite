@@ -536,14 +536,14 @@ a:active {
   color: hsl(0, 100%, 50%);
 }
 
-.brandsImage {
+/* .brandsImage {
   background-image: url(../images/brands.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   width: 100%;
   height: 70vh;
-}
+} */
 
 .gallery {
   padding-bottom: 100px;
@@ -653,6 +653,16 @@ a:active {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.aboutUsHeading {
+  background-color: #0c5198;
+  width: 50%;
+}
+
+.acTech {
+  width: 100%;
+  margin-left: 0 !important;
 }
 
 .input-group {
