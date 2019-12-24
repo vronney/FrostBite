@@ -538,7 +538,7 @@ a:active {
 
 @media only screen and (max-width: 575px) {
   .topReasons {
-    margin-left: 60px;
+    margin-left: 20px;
     margin-right: auto;
   }
 
