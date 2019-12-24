@@ -532,6 +532,10 @@ a:active {
   height: 100%;
 } */
 
+.checkMark {
+  color: hsl(0, 100%, 50%);
+}
+
 .brandsImage {
   background-image: url(../images/brands.jpg);
   background-repeat: no-repeat;
