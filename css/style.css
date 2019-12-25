@@ -536,6 +536,10 @@ a:active {
   color: hsl(0, 100%, 50%);
 }
 
+.dot {
+  font-size: 5px;
+}
+
 @media only screen and (max-width: 575px) {
   .topReasons {
     margin-left: 20px;
