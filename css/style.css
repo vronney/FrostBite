@@ -151,6 +151,18 @@ ul {
   list-style: none;
 }
 
+.paymentUL {
+  list-style: disc;
+  /* width: 200px; */
+  /* margin-left: 450px; */
+  display: inline-block; 
+  justify-items: center;
+}
+
+.paymentLI {
+  margin-left: 0;
+}
+
 a {
   transition: all 0.2s ease-in-out 0s;
 }
@@ -593,6 +605,7 @@ a:active {
   transition: all .3s;
   z-index: 2;
   opacity: 0;
+  filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
 
