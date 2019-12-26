@@ -173,9 +173,9 @@ a {
 
 .bg-1 {
   /* background-image: url(../images/call-to-action.jpg); */
-  background-image: url(../images/truck.JPG);
-  background-repeat: no-repeat;
-  background-position: center;
+  /* background-image: url(../images/truck.JPG); */
+  /* background-repeat: no-repeat;
+  background-position: center; */
 }
 
 .bg-orange {
@@ -677,10 +677,50 @@ a:active {
 /*--
     call-to-action start
 --*/
-.call-to-action {
+/* .call-to-action {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
+} */
+
+#call-to-action {
+  padding-bottom: 0;
+}
+
+.callSection {
+  background-color: #0c5198
+}
+
+.formSubHeading {
+  font-size: 32px !important;
+}
+
+.mailchimpSection {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#mc_embed_signup {
+  background-color: #f0f0f0;
+  /* background: #fff; */
+  /* opacity: 0.5;
+        filter: alpha(opacity=50); For IE8 and earlier */
+  clear: left;
+  font: 14px "Josefin Sans",
+  sans-serif;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.sendButton {
+  background-color: #f9a743 !important;
+}
+
+@media only screen and (min-width: 768) {
+  #mc_embed_signup_scroll {
+    margin-left: 300px;
+    margin-right: 300px;
+  }s
 }
 
 .aboutUsHeading {
