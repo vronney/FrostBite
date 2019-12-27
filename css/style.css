@@ -159,10 +159,6 @@ ul {
   justify-items: center;
 }
 
-.paymentLI {
-  margin-left: 0;
-}
-
 a {
   transition: all 0.2s ease-in-out 0s;
 }
@@ -171,12 +167,12 @@ a {
   margin-top: 100px;
 }
 
-.bg-1 {
-  /* background-image: url(../images/call-to-action.jpg); */
-  /* background-image: url(../images/truck.JPG); */
-  /* background-repeat: no-repeat;
-  background-position: center; */
-}
+/* .bg-1 {
+  background-image: url(../images/call-to-action.jpg);
+  background-image: url(../images/truck.JPG);
+  background-repeat: no-repeat;
+  background-position: center;
+} */
 
 .bg-orange {
   background: #f9a743;
