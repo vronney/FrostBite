@@ -22,7 +22,7 @@
 
 $(document).ready(function () {
 
-  var topoffset = 122;
+  var topoffset = 130;
 
   // Use smooth scrolling when clicking on navigation
   $('.navbar a[href*=\\#]:not([href=\\#])').click(function () {

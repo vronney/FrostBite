@@ -258,6 +258,10 @@ a:active {
   }
 }
 
+.navbar {
+  border-bottom: 1px solid #3b4045;
+}
+
 .navbar-nav>li>a {
   font-size: large;
 }
