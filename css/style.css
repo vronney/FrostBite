@@ -250,6 +250,16 @@ a:active {
     width: 330px;
     height: 149px;
   }
+
+  .logoImage {
+    width: 200px;
+    height: 80px;
+    margin-bottom: 0;
+  }
+}
+
+.navbar-nav>li>a {
+  font-size: large;
 }
 
 .text-center {
