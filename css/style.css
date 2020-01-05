@@ -48,7 +48,7 @@ h4,
 
 .mainSection {
   position: relative;
-  background-image: url('../images/broken-ac-couple.jpg');
+  background-image: url('../images/family.png');
   background-repeat: no-repeat;
   background-size: cover !important;
   background-position: center top !important;
@@ -80,6 +80,11 @@ h4,
 @media only screen and (max-width: 575px) {
   .mainSection {
     height: 75vh;
+    position: relative;
+    background-image: url('../images/broken-ac-couple.jpg');
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: center top !important;
   }
 
   .font-size-60 {
