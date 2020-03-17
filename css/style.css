@@ -46,6 +46,20 @@ h4,
   font-weight: 400;
 }
 
+.headingTitle {
+  color: #3c3c3c;
+  padding-bottom: 15px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.subheadingTitle {
+  font-size: 20px;
+  line-height: 24px;
+}
+
 .mainSection {
   position: relative;
   background-image: url('../images/family_optimized.png');
