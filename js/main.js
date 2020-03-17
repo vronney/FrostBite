@@ -1,3 +1,5 @@
+app.use(require('prerender-node').set('prerenderToken', 'Zk1EoWTulr5GujeyoEXq'));
+
 /* eslint-disable no-undef */
 // (function ($) {
 //     'use strict';
