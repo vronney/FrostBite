@@ -1,3 +1,7 @@
+const prerender = require('prerender');
+
+const app = prerender();
+
 app.use(require('prerender-node').set('prerenderToken', 'Zk1EoWTulr5GujeyoEXq'));
 
 /* eslint-disable no-undef */
